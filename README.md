@@ -9,5 +9,5 @@
 
 Para acessar o vídeo, veja ele aqui: 
 
-➡️ [Veja o vídeo clicando aqui!](assets/video-arduino.mp4)
+➡️ [Veja o vídeo clicando aqui!](assets/video-arduino.mp4) <br>
 ➡️ [Veja o link do código do Thinkercad por aqui!](https://www.tinkercad.com/things/fYaGFMIjDt6/editel?sharecode=t5PpLMbrR58VJgplTE49sZe6neAfpT122O9ioiDNsrs)
