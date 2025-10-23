@@ -1,6 +1,6 @@
 # Repositório "M4" – Programação
 
-Este repositório é direcionado **exclusivamente para as atividades e ponderadas da disciplina de Programação**, ministrada pelo **professor Cristiano Benites**.
+Este repositório é direcionado **exclusivamente para as atividades e ponderadas da disciplina de Programação** no Módulo 04 do Inteli, ministrada pelo **professor Cristiano Benites**.
 
 ## Estrutura do Repositório
 
