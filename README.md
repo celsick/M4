@@ -1,13 +1,28 @@
-# Ponderada 01 (16/10/2025)
+# Repositório "M4" – Programação
 
-## Parte 1:
+Este repositório é direcionado **exclusivamente para as atividades e ponderadas da disciplina de Programação**, ministrada pelo **professor Cristiano Benites**.
 
-<img src="./assets/codigo.png"> <br> <br>
-<img src="./assets/thinkercad.png">
+## Estrutura do Repositório
 
-## Parte 2:
+As atividades estão organizadas em **pastas numeradas**, de forma que cada uma contém o conteúdo e os arquivos correspondentes à atividade ou ponderada específica.
 
-Para acessar o vídeo, veja ele aqui: 
+Exemplo de estrutura:
+```
+M4/
+├── assets/
+├── Atividade01/
+├── Atividade02/
+├── Ponderada01/
+├── Ponderada02/
+└── ...
+```
 
-➡️ [Veja o vídeo clicando aqui!](assets/video-arduino.mp4) <br>
-➡️ [Veja o link do código do Thinkercad por aqui!](https://www.tinkercad.com/things/fYaGFMIjDt6/editel?sharecode=t5PpLMbrR58VJgplTE49sZe6neAfpT122O9ioiDNsrs)
+## Observações
+- Todas as atividades seguem as instruções fornecidas em aula.  
+- O foco deste repositório é **armazenar e versionar o código-fonte** e demais arquivos relacionados às entregas do módulo 04.
+
+---
+
+**Autor:** Celso Rodrigues Rocha Júnior  
+**Disciplina:** Programação – Módulo 04  
+**Professor:** Cristiano Benites
