@@ -6,7 +6,7 @@ Este projeto foi desenvolvido para a ponderada de programação do Módulo 04 co
 
 O vídeo abaixo demonstra a montagem física do circuito e o semáforo em pleno funcionamento, seguindo os tempos programados.
 
-➡️ [Veja o vídeo clicando aqui!](assets/semaforo.mp4)
+➡️ [Veja o vídeo clicando aqui!](../../assets/semaforo.mp4)
 
 ---
 
