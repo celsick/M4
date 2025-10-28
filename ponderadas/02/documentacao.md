@@ -8,6 +8,9 @@ O vídeo abaixo demonstra a montagem física do circuito e o semáforo em pleno 
 
 ➡️ [Veja o vídeo clicando aqui!](../../assets/semaforo.mp4)
 
+ou acesse a pasta assets e clique no vídeo denominado `semaforo.mp4`!
+
+
 ---
 
 ## 🛠️ Parte 1: Montagem Física (Hardware)
